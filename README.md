@@ -1,7 +1,7 @@
 # goit-node-hw-01
 
 ## action "list"
-![Screenshot_1](https://github.com/RadkoIvanUa/goit-node-hw-01/assets/118024148/009906ca-7c83-46ff-bb32-168ea2ca85f9)
+![Screenshot_1](https://github.com/RadkoIvanUa/goit-node-hw-01/assets/118024148/07a9c0a7-a83d-4d1b-8d22-defce500fc09)
 
 ## action "get"
 ![Screenshot_2](https://github.com/RadkoIvanUa/goit-node-hw-01/assets/118024148/9e30746d-b434-4866-a3a0-3fd48cc554ce)
